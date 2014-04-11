@@ -1,0 +1,3 @@
+[Fri, 11 Apr 2014 19:51:39 +0700] [Array] [Notice(8): Undefined variable: layout_array] [FILE: /admin/themes/install_check.php] [LINE: 266]
+[Fri, 11 Apr 2014 19:51:39 +0700] [Array] [Warning(2): in_array() expects parameter 2 to be array, null given] [FILE: /admin/themes/install_check.php] [LINE: 266]
+[Fri, 11 Apr 2014 19:51:59 +0700] [Array] [Warning(2): file_get_contents(D:/VertrigoServ/www/nukeviet41/themes/fusion/css/real.css) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory] [FILE: /includes/class/optimizer.class.php] [LINE: 406]
